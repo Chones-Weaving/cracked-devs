@@ -2,7 +2,7 @@
 name: Cracked Devs Offering
 about: Capture work done within cracked devs group
 title: "[CRACKED]"
-labels: ''
+labels: Offering
 assignees: ''
 
 ---
